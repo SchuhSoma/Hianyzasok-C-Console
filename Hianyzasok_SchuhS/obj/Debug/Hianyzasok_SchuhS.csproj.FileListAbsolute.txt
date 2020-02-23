@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Hianyzasok_SchuhS\Hianyzasok_SchuhS\bin\Debug\Hianyzasok_SchuhS.exe.config
+C:\Users\Soma\Documents\C#2\Hianyzasok_SchuhS\Hianyzasok_SchuhS\bin\Debug\Hianyzasok_SchuhS.exe
+C:\Users\Soma\Documents\C#2\Hianyzasok_SchuhS\Hianyzasok_SchuhS\bin\Debug\Hianyzasok_SchuhS.pdb
+C:\Users\Soma\Documents\C#2\Hianyzasok_SchuhS\Hianyzasok_SchuhS\obj\Debug\Hianyzasok_SchuhS.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Hianyzasok_SchuhS\Hianyzasok_SchuhS\obj\Debug\Hianyzasok_SchuhS.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Hianyzasok_SchuhS\Hianyzasok_SchuhS\obj\Debug\Hianyzasok_SchuhS.exe
+C:\Users\Soma\Documents\C#2\Hianyzasok_SchuhS\Hianyzasok_SchuhS\obj\Debug\Hianyzasok_SchuhS.pdb
